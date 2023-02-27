@@ -1,0 +1,147 @@
+
+button{
+    border: 1px solid white;
+    border-radius: 40px;
+    width: 200px;
+    margin-top: 20px;
+    background-color: yellow;
+    height: 50px;
+
+}b{
+    color: rgba(255, 0, 0, 0.699);
+}
+.btn{
+    background-color: pink;
+    margin-left: 2%;
+}
+.pop{
+    background-color: pink;
+}
+
+    .top{
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+    }
+    .left{
+        margin-left: 10%;
+    } 
+    h4{
+        margin-left: 80vh;
+        text-justify: auto;
+    }  
+    h1{
+        margin-left: 25%;
+    } 
+    .col{
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    .val{
+        display: flex;
+        justify-content: space-around;
+    }
+    .kid{
+        display: flex;
+        justify-content: space-around;
+    }
+    .mtg{
+        justify-content: space-around;
+        margin-left: 6%;
+    }
+    .bom{
+        margin-left: 6%;
+    }
+    .float{
+         display: flex;
+        justify-content: space-around;
+    }
+    .hors{
+        display: flex;
+        justify-content: space-around;
+    }
+    .joh{
+        display: flex;
+        justify-content: space-around;
+    }
+    .container{
+        display: flex;
+        justify-content: space-around;
+    }
+    .comme{
+        display: flex;
+        justify-content: space-around;
+    }
+     .grand{
+        width: 70vh;
+        height: 50vh;
+        background-color: white;
+        margin-top: 4vh;
+     }
+     .mvd{
+        width: 70vh;
+        height: 50vh;
+        background-color: white;
+        margin-top: 4vh;
+     }
+     .fluid{
+        display: flex;
+        justify-content: space-around;
+     }
+     .dag{
+        width: 70vh;
+        height: 60vh;
+        background-color: white;
+         margin-top: 4vh;
+         margin-right: 20vh;
+     }
+     .clem{
+        width: 70vh;
+        height: 60vh;
+        background-color: white;
+         margin-top: 4vh;
+     }
+     .bg{
+      margin-left: 60vh;
+      position: relative;
+      bottom:6vh;
+     }
+     .bt{
+        margin-left: 60vh;
+        position: relative;
+        bottom:9vh;
+     }
+     .mbd{
+        position: relative;
+        right: 55vh;
+        top: 13vh;
+     }
+     .hgp{
+        display: flex;
+        justify-content: space-around;
+     }
+     .valise{
+        display: flex;
+        justify-content: space-around;
+     }
+     .joint{
+        width: 100vh;
+        height: 70vh;
+        background-color: white;
+        position: relative;
+        top: 12vh;
+        left: 50vh;
+     }
+     .lob{
+        position: relative;
+        top: 4vh;
+        color: white;
+        left: 70vh;
+     }
+     .vob{
+        position: relative;
+        left: 65vh;
+        top: 12vh;
+     }
